@@ -6,7 +6,7 @@
 
 ## Русский
 
-Magisk-модуль для исправления названия модели на **Samsung Galaxy Note 10 (SM-N9700)**.
+Magisk-модуль для исправления названия модели на **Samsung Galaxy Note 10**.
 
 ### Установка
 1. Скачайте ZIP-архив из [Releases](https://github.com/mog30/note10-gsi-name-fix/releases) под ваше устройство.
@@ -26,7 +26,7 @@ settings put global device_name_internal "Galaxy Note 10"
 
 ## English
 
-A Magisk module to fix the device name on **Samsung Galaxy Note 10 (SM-N9700)**.
+A Magisk module to fix the device name on **Samsung Galaxy Note 10**.
 
 ### Installation
 1. Download ZIP archive from [Releases](https://github.com/mog30/note10-gsi-name-fix/releases) for your devices.
