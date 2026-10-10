@@ -1,0 +1,6 @@
+id=note10-gsi-name-fix
+name=SM-N9700 GSI Name Fix
+version=v1.0
+versionCode=1
+author=mog30
+description=Magisk module to fix Samsung Galaxy Note 10 (SM-N9700) device name on GSI.
