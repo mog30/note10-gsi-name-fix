@@ -1,0 +1,15 @@
+#!/system/bin/sh
+MODDIR=${0%/*}
+resetprop -n ro.product.model "SM-N9700"
+resetprop -n ro.product.product.model "SM-N9700"
+resetprop -n ro.product.system.model "SM-N9700"
+resetprop -n ro.product.vendor.model "SM-N9700"
+resetprop -n ro.product.odm.model "SM-N9700"
+resetprop -n ro.product.system_ext.model "SM-N9700"
+resetprop -n ro.product.bootimage.model "SM-N9700"
+resetprop -n ro.product.brand "samsung"
+resetprop -n ro.product.product.brand "samsung"
+resetprop -n ro.product.system.brand "samsung"
+resetprop -n ro.product.manufacturer "samsung"
+resetprop -n ro.product.product.manufacturer "samsung"
+resetprop -n ro.product.system.manufacturer "samsung"
