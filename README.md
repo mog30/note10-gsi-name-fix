@@ -1,4 +1,4 @@
-# Samsung Galaxy Note 10 (SM-N9700) GSI Name Fix
+# Samsung Galaxy Note 10 GSI Name Fix
 
 [Русский](#русский) | [English](#english)
 
