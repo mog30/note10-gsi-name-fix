@@ -14,7 +14,7 @@ Magisk-модуль для исправления названия модели 
 
 ### Примечания
 
-1. Я могу сделать модуль специально под ваше устройство, для этого можете создать ветку в [Pull Requests](https://github.com/mog30/note10-gsi-name-fix/pulls?labels=add-device) или оставить [Issue](https://github.com/mog30/note10-gsi-name-fix/issues/new?labels=add-device).
+1. Я могу сделать модуль специально под ваше устройство, для этого можете оставить [Issue](https://github.com/mog30/note10-gsi-name-fix/issues/new?labels=add-device).
 2. Если имя в настройках не обновилось, вставьте в терминал:
 ```
 su
@@ -34,7 +34,7 @@ A Magisk module to fix the device name on **Samsung Galaxy Note 10 (SM-N9700)**.
 
 ### Additions
 
-1. I can make a module for your specific device, just leave an [Issue](https://github.com/mog30/note10-gsi-name-fix/issues/new?labels=add-device) or [Pull Request](https://github.com/mog30/note10-gsi-name-fix/pulls?labels=add-device).
+1. I can make a module for your specific device, just leave an [Issue](https://github.com/mog30/note10-gsi-name-fix/issues/new?labels=add-device).
 2. If the name in settings did not change, run the following in a terminal:
 ```
 su
